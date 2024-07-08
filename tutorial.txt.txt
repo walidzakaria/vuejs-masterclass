@@ -1,0 +1,6 @@
+mkdir masterclass
+cd masterclass
+npm create vue@latest
+
+** yes for (typescript, Router, Pinia, ESLint, Prettier)
+
